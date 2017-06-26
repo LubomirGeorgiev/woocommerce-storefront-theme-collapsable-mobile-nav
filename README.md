@@ -1,5 +1,9 @@
 # WooCommerce Storefront Theme Collapsable Mobile Nav
 
+# Demo
+
+![Demo gif](assets/demo.gif?raw=true "Title")
+
 ## Very short story of how this code and repository came about:
 I was working on a [WooCommerce](https://woocommerce.com/) project where I used the [Storefront theme](Storefront%20theme).
 At some point I decided test the website on mobile and I was startled by how ugly the mobile navigation looked when you have multiple levels of submenus so I decided to fix this mess.
