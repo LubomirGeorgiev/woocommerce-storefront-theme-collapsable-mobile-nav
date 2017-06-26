@@ -1,0 +1,30 @@
+/*
+Theme Name:     Storefront Child Theme
+Template:       storefront
+*/
+
+.mobile-nav-expand-trigger {
+  float: right;
+  background: #e8e8e8;
+  padding: 8px 12px;
+  font-size: 1.4em;
+}
+
+.mobile-nav-expand-trigger:before {
+  transition: all 0.3s ease-in-out;
+  display: inline-block;
+  color: #a0a2b5;
+}
+
+.mobile-nav-expand-trigger.js-submenu-expanded {
+  background: #ababab;
+}
+
+.mobile-nav-expand-trigger.js-submenu-expanded:before {
+  transform: rotate(180deg);
+  color: #797b8e;
+}
+
+.handheld-navigation a, .handheld-navigation a:hover, .handheld-navigation a:active, .handheld-navigation a:focus {
+  outline: none;
+}
