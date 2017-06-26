@@ -19,5 +19,3 @@ All of the files in this repository are meant to be installed as a child theme t
  4. Enjoy (If you give this repository a start that will also be appreciated) :D
 
 # TODO
-
- 1. Add a visual gif demo to the README.md file
